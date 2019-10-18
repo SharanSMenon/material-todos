@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/material-todos/static/css/main.2cce8147.chunk.css",
+    "main.js": "/material-todos/static/js/main.2a2bc779.chunk.js",
+    "main.js.map": "/material-todos/static/js/main.2a2bc779.chunk.js.map",
+    "runtime~main.js": "/material-todos/static/js/runtime~main.7308ba01.js",
+    "runtime~main.js.map": "/material-todos/static/js/runtime~main.7308ba01.js.map",
+    "static/js/2.a7d8a1a5.chunk.js": "/material-todos/static/js/2.a7d8a1a5.chunk.js",
+    "static/js/2.a7d8a1a5.chunk.js.map": "/material-todos/static/js/2.a7d8a1a5.chunk.js.map",
+    "index.html": "/material-todos/index.html",
+    "precache-manifest.5fbad0d69fc39f11caa0de20544d4887.js": "/material-todos/precache-manifest.5fbad0d69fc39f11caa0de20544d4887.js",
+    "service-worker.js": "/material-todos/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/material-todos/static/css/main.2cce8147.chunk.css.map"
+  }
+}
